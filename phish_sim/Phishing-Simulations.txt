@@ -1,3 +1,5 @@
+! Title: Phishing Simulation Blocklist
+! Expires: 1 day
 ! Domains used for Phishing Simulations. Blocking these are fair-game in my opinion
 ! Your Metacompliance team is likely bypassing security controls to allow them through.
 ! And they can be easily found here: 
