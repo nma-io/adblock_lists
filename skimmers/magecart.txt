@@ -36,8 +36,8 @@
 ||www.evanslandscaping.com/wp-includes/js/jquery/jquery.min.js*
 ||t3e5d2a5.delivery.rocketcdn.me/wp-includes/js/jquery/jquery-migrate.min.js*
 ||myerstest.com/wp-includes/js/jquery/jquery-migrate.min.js*
-||https://www.ingallina.com/Order-Checkout
-||https://www.cpacredits.com/nitropack_static/ZThPXwDFNNVPaAMZLqyHqddJMtqCBPbz/assets/static/optimized/rev-181c033/www.cpacredits.com/wp-includes/js/jquery/nitro-min-*.jquery.min.js
+||www.ingallina.com^
+||www.cpacredits.com/nitropack_static/ZThPXwDFNNVPaAMZLqyHqddJMtqCBPbz/assets/static/optimized/rev-181c033/www.cpacredits.com/wp-includes/js/jquery/nitro-min-*.jquery.min.js
 ||2screw.shop^
 ||tagscart.shop^
 ||xtras.work^
