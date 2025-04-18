@@ -1,0 +1,41 @@
+! Title: MageCart Domain Blocklist
+! Expires: 1 day
+! Domains/locations abused by Magecart style skimmers.
+||downbeat.lol^
+||pinero.top^
+||141.98.82.244^
+||78.128.112.221^
+||hxjet.pics^
+||ultracart.shop^
+||uniquemask.homes^
+||js-agentnewrelic.com^
+||jsdelivero.at^
+||vetlider.ru^
+||hotmeriksbook.top^
+||islandcooling.com/wp-content/plugins/robin-image-optimizer/assets/api-setting.txt
+||cdn-report.com^
+||north-cdn.com^
+||south-cdn.com^
+||92.63.179.70^
+||webpassen.com^
+||schwablu.com^
+||grev.io^
+||2links.blog^
+||assets-token.com^
+||jaysmetricks.top^
+||jatesmetrics.xyz^
+||megametriks.xyz^
+||metrikshot.top^
+||pixelsouss.xyz^
+||superrpixel.xyz^
+||fbanalyt.com^
+||js-security-shield.com^
+||js-security-essentials.com^
+||static5-jquery.com^
+||static.turnot.io^
+||quickbit.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+||www.evanslandscaping.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.2
+||t3e5d2a5.delivery.rocketcdn.me/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+||myerstest.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+||https://www.ingallina.com/Order-Checkout
+||https://www.cpacredits.com/nitropack_static/ZThPXwDFNNVPaAMZLqyHqddJMtqCBPbz/assets/static/optimized/rev-181c033/www.cpacredits.com/wp-includes/js/jquery/nitro-min-f43b551b749a36845288913120943cc6.jquery.min.js
