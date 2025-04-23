@@ -21,6 +21,12 @@
 ||wwwcloudfiare.com^
 ||mango-apple.in^
 ||cnd-analytics.com^
+||cdn-stats.com^
+||wwwc1oudflare.com^
+||wwwcloudfiare.com^
+||mango-apple.in^
+||javalibraryeuro.com^
+||javascripttestlibrary.com^
 ||92.63.179.70^
 ||webpassen.com^
 ||schwablu.com^
