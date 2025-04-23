@@ -16,6 +16,11 @@
 ||north-cdn.com^
 ||south-cdn.com^
 ||cdncookies.com^
+||cdn-stats.com^
+||wwwc1oudflare.com^
+||wwwcloudfiare.com^
+||mango-apple.in^
+||cnd-analytics.com^
 ||92.63.179.70^
 ||webpassen.com^
 ||schwablu.com^
