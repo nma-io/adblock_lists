@@ -22,6 +22,7 @@
 ||mango-apple.in^
 ||cnd-analytics.com^
 ||cdn-stats.com^
+||cdn-statistics.com^
 ||wwwc1oudflare.com^
 ||wwwcloudfiare.com^
 ||mango-apple.in^
@@ -60,3 +61,7 @@
 ||supertag.info^
 ||jqbs-get.store^
 ||xtras.work^
+||trust-store.org^
+||bapepixel.top^
+||orristhekyone.site^
+||openstat.cc^
