@@ -15,6 +15,7 @@
 ||cdn-report.com^
 ||north-cdn.com^
 ||south-cdn.com^
+||cdncookies.com^
 ||92.63.179.70^
 ||webpassen.com^
 ||schwablu.com^
