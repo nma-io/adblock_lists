@@ -70,4 +70,4 @@
 ||bsjq-online.store^
 ||chatcket.com^
 ||iconstaff.top^
-
+||datainsightmap.com^
