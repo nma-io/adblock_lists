@@ -23,7 +23,6 @@
 ||cnd-analytics.com^
 ||cdn-stats.com^
 ||cdn-statistics.com^
-||wwwc1oudflare.com^
 ||wwwcloudfiare.com^
 ||mango-apple.in^
 ||javalibraryeuro.com^
@@ -83,3 +82,5 @@
 ||cdnmozilla.com^
 ||cdn-secure.com^
 ||securedata-ns.com^
+||js-privacy-shield.com^
+||zerotag.cc^
