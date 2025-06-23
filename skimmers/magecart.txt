@@ -84,3 +84,6 @@
 ||securedata-ns.com^
 ||js-privacy-shield.com^
 ||zerotag.cc^
+||jquerystatic.com^
+||relaxpixelgame.top^
+||tempvision.org^
