@@ -89,3 +89,4 @@
 ||tempvision.org^
 ||itracking.autos^
 ||gigaping.online^
+||record-tracker.com^
