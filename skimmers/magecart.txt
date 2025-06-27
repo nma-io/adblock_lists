@@ -90,3 +90,4 @@
 ||itracking.autos^
 ||gigaping.online^
 ||record-tracker.com^
+||dartcdn.in^
