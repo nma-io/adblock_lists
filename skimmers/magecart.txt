@@ -91,3 +91,4 @@
 ||gigaping.online^
 ||record-tracker.com^
 ||dartcdn.in^
+||vuemool.store^
