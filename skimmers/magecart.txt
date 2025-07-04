@@ -92,3 +92,4 @@
 ||record-tracker.com^
 ||dartcdn.in^
 ||vuemool.store^
+||0test.my^
