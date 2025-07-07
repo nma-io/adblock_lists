@@ -93,3 +93,10 @@
 ||dartcdn.in^
 ||vuemool.store^
 ||0test.my^
+||girelink.online^
+||statepulseapp.com^
+||altraxpart.be^
+||avrelibeds.com^
+||eshop.instalace-tzb.cz^
+||magentoplugins.cc^
+||west-report.com^
