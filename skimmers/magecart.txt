@@ -109,3 +109,4 @@
 ||keytag.rest^
 ||metrikspixels.xyz^
 ||ghanamusthi.xyz^
+||jqeury.net^
