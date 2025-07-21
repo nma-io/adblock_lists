@@ -21,10 +21,7 @@
 ||wwwcloudfiare.com^
 ||mango-apple.in^
 ||cnd-analytics.com^
-||cdn-stats.com^
 ||cdn-statistics.com^
-||wwwcloudfiare.com^
-||mango-apple.in^
 ||javalibraryeuro.com^
 ||javascripttestlibrary.com^
 ||92.63.179.70^
@@ -58,8 +55,6 @@
 ||realstat.today^
 ||statmasters.shop^
 ||supertag.info^
-||jqbs-get.store^
-||xtras.work^
 ||trust-store.org^
 ||bapepixel.top^
 ||orristhekyone.site^
@@ -73,7 +68,6 @@
 ||checkoutcache.com^
 ||onlinechatusbot.com^
 ||schoolmeriks.top^
-||onlinechatusbot.com^
 ||swordpixel.top^
 ||assets.metricsmonitorpro.com^
 ||sitesupport.vip^
