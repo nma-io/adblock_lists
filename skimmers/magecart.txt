@@ -109,3 +109,5 @@
 ||chatserver-seal.com^
 ||olark.cfd^
 ||pixellaser.top^
+||3rdsock.pro^
+||gstatlc.org^
