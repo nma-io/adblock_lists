@@ -112,3 +112,6 @@
 ||3rdsock.pro^
 ||gstatlc.org^
 ||goingmeriksgarden.top^
+||pivocommerce.info^
+||js-storage.com^
+||js-security-solutions.com^
