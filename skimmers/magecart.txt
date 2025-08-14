@@ -116,3 +116,4 @@
 ||js-storage.com^
 ||js-security-solutions.com^
 ||cnd-analytics.com^
+||cdn-server.online^
