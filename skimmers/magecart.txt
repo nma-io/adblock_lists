@@ -117,3 +117,5 @@
 ||js-security-solutions.com^
 ||cnd-analytics.com^
 ||cdn-server.online^
+||bluewemonsters.com^
+||swordpixel.top^
