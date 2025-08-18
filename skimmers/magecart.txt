@@ -119,3 +119,6 @@
 ||cdn-server.online^
 ||bluewemonsters.com^
 ||swordpixel.top^
+||ccdiq.pro^
+||hmtgang.top^
+
