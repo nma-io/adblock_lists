@@ -125,3 +125,5 @@
 ||datalinkmanager.com^
 ||liveassistent.online^
 ||sefaword.com^
+||backupper.pro^
+||wostat.icu^
