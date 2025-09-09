@@ -129,3 +129,4 @@
 ||wostat.icu^
 ||arch535.industries^
 ||windyplentiful.com^
+||embed.hmtgang.top^
