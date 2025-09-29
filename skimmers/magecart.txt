@@ -136,3 +136,7 @@
 ||enhances.digital^
 ||megastat.shop^
 ||wsrequest.net^
+||cdn.iconstaff.top^
+||wargular.xyz^
+||manulfie.click^
+||jq.clearnetfab.net^
