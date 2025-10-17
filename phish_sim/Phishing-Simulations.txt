@@ -187,6 +187,14 @@
 ||tenatcagroup.com^
 ||tousfacteurs.fr^
 ||wwwsentera.com^
+||qualsafe.co.uk^
+||ipb.dk^
+||benesys.net^
+||aeatlantico.eu^
+||bspend.nl^
+||tenactagroup.it^
+||tenatcagroup.it^
+||or-oij.nl^
 ! This will block any new additions, this string is part of the email encryption.
 ||*/Track/EmailClick?7Hzo393jGwm6oR/*
 
