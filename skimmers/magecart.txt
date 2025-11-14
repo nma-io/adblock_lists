@@ -153,3 +153,5 @@
 ||techchatc.site^
 ||deliastamaels.com^
 ||webawast.xyz^
+||api-static.com^
+||onelitteday.com^
