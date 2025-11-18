@@ -155,3 +155,7 @@
 ||webawast.xyz^
 ||api-static.com^
 ||onelitteday.com^
+||i.cdn-typekit.com^
+||apistatics.com^
+||jackst.site^
+||cdccom.vip^
