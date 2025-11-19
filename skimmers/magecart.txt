@@ -159,3 +159,5 @@
 ||apistatics.com^
 ||jackst.site^
 ||cdccom.vip^
+||cdn.micspanel.net^
+||statmaster.shop^
