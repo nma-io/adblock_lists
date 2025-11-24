@@ -162,3 +162,5 @@
 ||cdn.micspanel.net^
 ||statmaster.shop^
 ||https://remoteimagedelivery.com/gallery/image-observer.php^
+||lonefrst.today^
+||bishop.help^
