@@ -165,3 +165,4 @@
 ||lonefrst.today^
 ||bishop.help^
 ||rx24860449.weekend956.agency^
+||https://koloco.name/cdn/^
