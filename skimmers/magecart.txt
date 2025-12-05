@@ -170,3 +170,4 @@
 ||paysafeprocess.com^
 ||tahstore.com/gfx/42/us.js^
 ||worldpixelwide.top^
+||vvwv.dev^
