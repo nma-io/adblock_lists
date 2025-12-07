@@ -171,3 +171,7 @@
 ||tahstore.com/gfx/42/us.js^
 ||worldpixelwide.top^
 ||vvwv.dev^
+||tagsmanager.shop^
+||https://tagsmanager.shop/cdn/analytics.min.js^
+||globaltag.shop^
+||tagspot.store^
