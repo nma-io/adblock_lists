@@ -175,5 +175,8 @@
 ||https://tagsmanager.shop/cdn/analytics.min.js^
 ||globaltag.shop^
 ||tagspot.store^
-||c.statcounter.com^
 ||storescdn.com/css/osio.js^
+||cpeciadogfoods.com^
+||3tree.buzz^
+||mozillastatus.com^
+||lazyanalytics.xyz^
