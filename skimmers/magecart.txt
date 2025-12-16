@@ -180,3 +180,11 @@
 ||3tree.buzz^
 ||mozillastatus.com^
 ||lazyanalytics.xyz^
+||kanalytics.digital^
+||https://kanalytics.digital/cdn/mkena.com.js^
+||https://data-stat.info/data.php^
+||tagmonitoringhub.com^
+||https://tagmonitoringhub.com/insights.js^
+||https//tagscart.shop/cdn/analytics.min.js^
+||https://olark.cfd/static/d05c3801e7933656/jquery.js^
+||https://api-static.com/apis^
