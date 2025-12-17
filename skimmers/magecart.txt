@@ -188,3 +188,4 @@
 ||https//tagscart.shop/cdn/analytics.min.js^
 ||https://olark.cfd/static/d05c3801e7933656/jquery.js^
 ||https://api-static.com/apis^
+||https://appcloud1.buzz/data.php?p=frs3^
