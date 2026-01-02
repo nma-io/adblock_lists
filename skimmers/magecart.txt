@@ -197,3 +197,5 @@
 ||thisisourparadise.site^
 ||thisisourparadise.store^
 ||thisisourparadise.space^
+||aim.loc.kr^
+||identity.loc.kr^
