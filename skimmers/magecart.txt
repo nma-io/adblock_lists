@@ -207,3 +207,4 @@
 ||elementorupdate.live^
 ||api-statics.com^
 ||https://vtasks.shop/cdn/analytics.min.js^
+||cspreported.com^
