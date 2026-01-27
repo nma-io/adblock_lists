@@ -208,3 +208,6 @@
 ||api-statics.com^
 ||https://vtasks.shop/cdn/analytics.min.js^
 ||cspreported.com^
+||xpertbit.shop^
+||jetex.pics^
+||musmash.one/cdn/ics-schneider.de.js^
