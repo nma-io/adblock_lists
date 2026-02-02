@@ -211,3 +211,4 @@
 ||xpertbit.shop^
 ||jetex.pics^
 ||musmash.one/cdn/ics-schneider.de.js^
+||cdnweb2analytics.com^
