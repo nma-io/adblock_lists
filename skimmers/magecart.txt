@@ -212,3 +212,6 @@
 ||jetex.pics^
 ||musmash.one/cdn/ics-schneider.de.js^
 ||cdnweb2analytics.com^
+||gstatictag.info^
+||simplehelp.assurecs.net^
+||custom.intucdn.com^
