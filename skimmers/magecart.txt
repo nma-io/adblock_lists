@@ -215,3 +215,6 @@
 ||gstatictag.info^
 ||simplehelp.assurecs.net^
 ||custom.intucdn.com^
+||formals.buzz^
+||ibmpc.cc^
+||request-ws.com^
