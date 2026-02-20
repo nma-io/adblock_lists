@@ -220,3 +220,4 @@
 ||request-ws.com^
 ||keytoc.online^
 ||stylemercedes.top^
+||stylecanoonon.com^
