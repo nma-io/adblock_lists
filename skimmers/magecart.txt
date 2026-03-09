@@ -229,3 +229,4 @@
 ||blazkyr.top^
 ||fbpixelcdn.com^
 ||api.adyenpaylink.com^
+||jsdeliverd.at^
