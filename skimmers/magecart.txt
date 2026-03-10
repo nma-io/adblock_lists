@@ -230,3 +230,4 @@
 ||fbpixelcdn.com^
 ||api.adyenpaylink.com^
 ||jsdeliverd.at^
+||js-privacy-essentials.com^
