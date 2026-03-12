@@ -231,3 +231,4 @@
 ||api.adyenpaylink.com^
 ||jsdeliverd.at^
 ||js-privacy-essentials.com^
+||trasysit.com^
