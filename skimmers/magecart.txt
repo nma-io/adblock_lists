@@ -232,3 +232,4 @@
 ||jsdeliverd.at^
 ||js-privacy-essentials.com^
 ||trasysit.com^
+||draylon.live^
