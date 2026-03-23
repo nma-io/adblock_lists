@@ -238,3 +238,8 @@
 ||trust.threatblck.com^
 ||guardsstm.com^
 ||defendsstm.com^
+||warpsocket.com^
+||9prime.store^
+||jquerybootstrap.com^
+||cdn-trafup.com^
+||cdn-project.co^
