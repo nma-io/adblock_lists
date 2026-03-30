@@ -260,3 +260,6 @@
 ||newassetspro.com^
 ||explorerpros.com^
 ||redsysgate.com^
+||lgstd.ws^
+||gtmtimestamp.com^
+||specterguardian.com^
