@@ -263,3 +263,4 @@
 ||lgstd.ws^
 ||gtmtimestamp.com^
 ||specterguardian.com^
+||gstatics.cloud^
