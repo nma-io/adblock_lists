@@ -264,3 +264,4 @@
 ||gtmtimestamp.com^
 ||specterguardian.com^
 ||gstatics.cloud^
+||dccome.app^
