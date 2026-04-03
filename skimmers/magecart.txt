@@ -265,3 +265,4 @@
 ||specterguardian.com^
 ||gstatics.cloud^
 ||dccome.app^
+||statistics-for-you.com^
