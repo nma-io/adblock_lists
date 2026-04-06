@@ -266,3 +266,5 @@
 ||gstatics.cloud^
 ||dccome.app^
 ||statistics-for-you.com^
+||ultradevforge.com^
+||process-femi9.com^
