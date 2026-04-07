@@ -268,3 +268,4 @@
 ||statistics-for-you.com^
 ||ultradevforge.com^
 ||process-femi9.com^
+||chat-store.online^
