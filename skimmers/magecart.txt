@@ -270,3 +270,6 @@
 ||process-femi9.com^
 ||chat-store.online^
 ||pixelfaileron.top^
+||fonts-presta.com^
+||nolentop.com^
+||livestats.info^
