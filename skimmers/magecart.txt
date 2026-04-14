@@ -226,3 +226,8 @@
 ||brudget.net^
 ||wwwi.click^
 ||febiloot.site^
+||cdn-jsapi.net^
+||solid-awb.com^
+||draylon.live^
+||pixellayers.top^
+||habcd.cc^
