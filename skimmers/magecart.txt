@@ -235,3 +235,5 @@
 ||infolservice.com^
 ||r1l.me^
 ||d.spmolli.com^
+||https://sniffer-panel-production.up.railway.app/collect.php^
+||js-privacy-essentials.com^
