@@ -115,7 +115,6 @@
 ||pivocommerce.info^
 ||js-storage.com^
 ||js-security-solutions.com^
-||cnd-analytics.com^
 ||cdn-server.online^
 ||bluewemonsters.com^
 ||swordpixel.top^
@@ -237,3 +236,5 @@
 ||d.spmolli.com^
 ||https://sniffer-panel-production.up.railway.app/collect.php^
 ||js-privacy-essentials.com^
+||bomtec.online^
+||auth-securi.net^
