@@ -285,3 +285,6 @@
 ||js-privacy-essentials.com^
 ||bomtec.online^
 ||auth-securi.net^
+||eluxar.icu^
+||teclhab-cdn.com^
+||cdnflarex.com^
