@@ -288,3 +288,7 @@
 ||eluxar.icu^
 ||teclhab-cdn.com^
 ||cdnflarex.com^
+||gstat.store^
+||stylecladis.com^
+||cloudcss.store^
+||stylevors.com^
