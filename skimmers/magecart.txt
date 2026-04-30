@@ -292,3 +292,5 @@
 ||stylecladis.com^
 ||cloudcss.store^
 ||stylevors.com^
+||gomaps.info^
+||staticsapi.com^
