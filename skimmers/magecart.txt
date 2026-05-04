@@ -247,3 +247,4 @@
 ||stylevors.com^
 ||gomaps.info^
 ||staticsapi.com^
+||solvar.space^
