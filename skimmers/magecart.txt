@@ -248,3 +248,4 @@
 ||gomaps.info^
 ||staticsapi.com^
 ||solvar.space^
+||tristplse.com^
