@@ -249,3 +249,4 @@
 ||staticsapi.com^
 ||solvar.space^
 ||tristplse.com^
+||rockstore.buzz^
