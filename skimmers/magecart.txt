@@ -251,3 +251,11 @@
 ||tristplse.com^
 ||rockstore.buzz^
 ||request-cdn.com^
+||goodbenefit.icu^
+||connect-wss.com^
+||novacdn.dev^
+||dns.goodbenefit.icu^
+||s1.goodbenefit.icu^
+||warpsocket.com^
+||cdn-trafup.com^
+||cdn-project.co^
