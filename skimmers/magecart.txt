@@ -306,3 +306,6 @@
 ||warpsocket.com^
 ||cdn-trafup.com^
 ||cdn-project.co^
+||cndcheckjs.com^
+||prestawatch.com^
+||themestatic.com^
