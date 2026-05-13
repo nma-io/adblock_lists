@@ -309,3 +309,4 @@
 ||cndcheckjs.com^
 ||prestawatch.com^
 ||themestatic.com^
+||socketws.com^
