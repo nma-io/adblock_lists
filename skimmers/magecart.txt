@@ -310,3 +310,4 @@
 ||prestawatch.com^
 ||themestatic.com^
 ||socketws.com^
+||exalor.bond^
