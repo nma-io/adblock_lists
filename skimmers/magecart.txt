@@ -311,3 +311,4 @@
 ||themestatic.com^
 ||socketws.com^
 ||exalor.bond^
+||echodatas.live^
