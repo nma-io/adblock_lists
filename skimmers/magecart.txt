@@ -265,3 +265,4 @@
 ||socketws.com^
 ||exalor.bond^
 ||echodatas.live^
+||affirman.com^
