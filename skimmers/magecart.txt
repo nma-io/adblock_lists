@@ -266,3 +266,5 @@
 ||exalor.bond^
 ||echodatas.live^
 ||affirman.com^
+||analytics-gtagmanager.com^
+||wsrequest.com^
