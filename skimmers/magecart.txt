@@ -315,3 +315,5 @@
 ||affirman.com^
 ||analytics-gtagmanager.com^
 ||wsrequest.com^
+||stylealik.com^
+||dorei.website^
