@@ -317,3 +317,5 @@
 ||wsrequest.com^
 ||stylealik.com^
 ||dorei.website^
+||sitesocket.store^
+||staticfonts.com^
