@@ -272,3 +272,6 @@
 ||dorei.website^
 ||sitesocket.store^
 ||staticfonts.com^
+||styleussles.com^
+||event-trk.com^
+||pixelstaicysaa.top^
