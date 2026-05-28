@@ -116,8 +116,6 @@
 ||js-storage.com^
 ||js-security-solutions.com^
 ||cdn-server.online^
-||bluewemonsters.com^
-||swordpixel.top^
 ||ccdiq.pro^
 ||hmtgang.top^
 ||carefulmetriks.top^
@@ -254,7 +252,6 @@
 ||bundle-referrer.com^
 ||categorywishlist.com^
 ||cachesecure.com^
-||securedata-ns.com^
 ||analysiscache.com^
 ||newassetspro.com^
 ||explorerpros.com^
@@ -274,7 +271,6 @@
 ||livestats.info^
 ||cdn-jsapi.net^
 ||solid-awb.com^
-||draylon.live^
 ||pixellayers.top^
 ||habcd.cc^
 ||securities-cdn.com^
@@ -282,7 +278,6 @@
 ||r1l.me^
 ||d.spmolli.com^
 ||https://sniffer-panel-production.up.railway.app/collect.php^
-||js-privacy-essentials.com^
 ||bomtec.online^
 ||auth-securi.net^
 ||eluxar.icu^
@@ -303,9 +298,6 @@
 ||novacdn.dev^
 ||dns.goodbenefit.icu^
 ||s1.goodbenefit.icu^
-||warpsocket.com^
-||cdn-trafup.com^
-||cdn-project.co^
 ||cndcheckjs.com^
 ||prestawatch.com^
 ||themestatic.com^
