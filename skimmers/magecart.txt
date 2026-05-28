@@ -226,6 +226,7 @@
 ||brudget.net^
 ||wwwi.click^
 ||febiloot.site^
+<<<<<<< HEAD
 ||blazkyr.top^
 ||fbpixelcdn.com^
 ||api.adyenpaylink.com^
@@ -273,3 +274,10 @@
 ||fonts-presta.com^
 ||nolentop.com^
 ||livestats.info^
+=======
+||cdn-jsapi.net^
+||solid-awb.com^
+||draylon.live^
+||pixellayers.top^
+||habcd.cc^
+>>>>>>> 08fa619 (New MageCart skimmer identified.)
