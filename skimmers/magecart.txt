@@ -276,3 +276,4 @@
 ||event-trk.com^
 ||pixelstaicysaa.top^
 ||fiftytwopixel.top^
+||nnv.icu^
