@@ -322,3 +322,4 @@
 ||js-safety-essentials.com^
 ||newcheckout.shop^
 ||ddeart.cc^
+||difastlink.com^
