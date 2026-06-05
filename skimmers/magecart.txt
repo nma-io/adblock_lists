@@ -323,3 +323,4 @@
 ||newcheckout.shop^
 ||ddeart.cc^
 ||difastlink.com^
+||cdn-project.com^
