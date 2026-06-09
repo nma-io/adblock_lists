@@ -326,3 +326,4 @@
 ||cdn-project.com^
 ||hadowburninside.top^
 ||merikskalyon.top^
+||cytovine.com^
