@@ -329,3 +329,5 @@
 ||cytovine.com^
 ||alpinejs.dev^
 ||pixellikesss.top^
+||rmark.lat^
+||thepayapays.com^
