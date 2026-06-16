@@ -331,3 +331,9 @@
 ||pixellikesss.top^
 ||rmark.lat^
 ||thepayapays.com^
+||mg-analytics.sbs^
+||web.scrtcheck.com^
+||gate.scrtcheck.com^
+||host.scrtcheck.com^
+||get.scrtcheck.com^
+||post.scrtcheck.com^
