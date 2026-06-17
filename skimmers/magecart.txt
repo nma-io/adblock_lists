@@ -337,3 +337,4 @@
 ||host.scrtcheck.com^
 ||get.scrtcheck.com^
 ||post.scrtcheck.com^
+||modulcdn.com^
