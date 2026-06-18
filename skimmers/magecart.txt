@@ -338,3 +338,4 @@
 ||get.scrtcheck.com^
 ||post.scrtcheck.com^
 ||modulcdn.com^
+||snake.zooparkko.com^
