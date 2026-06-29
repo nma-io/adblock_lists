@@ -341,3 +341,6 @@
 ||snake.zooparkko.com^
 ||widgetassets.com^
 ||jquery-boots.com^
+||cnd.telemetrycore.net^
+||jitpackcdn.com^
+||lifepader.com^
