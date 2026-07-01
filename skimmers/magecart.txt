@@ -344,3 +344,5 @@
 ||cnd.telemetrycore.net^
 ||jitpackcdn.com^
 ||lifepader.com^
+||bbqinn.my^
+||topalitik.store^
