@@ -354,3 +354,5 @@
 ||brightcitylights.top^
 ||sgravatar.org^
 ||copperlandmark.top^
+||amberobservatory.top^
+||letsgoautomotive.com^
