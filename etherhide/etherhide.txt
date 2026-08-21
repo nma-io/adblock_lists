@@ -2,3 +2,4 @@
 ! Expires: 1 day
 ! Domains/locations abused by various Etherhide actors (ClickFix/MageCart)
 ||karburatorotzhigi.com^
+||styleussles.com^
