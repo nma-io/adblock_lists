@@ -3,3 +3,4 @@
 ! Domains/locations abused by various Etherhide actors (ClickFix/MageCart)
 ||karburatorotzhigi.com^
 ||styleussles.com^
+||verico-de-id.beer^
