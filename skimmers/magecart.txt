@@ -375,3 +375,7 @@
 ||livesupp.online^
 ||app.livesupp.online^
 ||cdn.livesupp.online^
+||i124.fastpic.org^
+||cdn.traffmovie.com^
+||traffmovie.com^
+||s.dtfmto.com^
