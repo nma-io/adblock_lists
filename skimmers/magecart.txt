@@ -379,3 +379,4 @@
 ||cdn.traffmovie.com^
 ||traffmovie.com^
 ||s.dtfmto.com^
+||smart-caching.com^
