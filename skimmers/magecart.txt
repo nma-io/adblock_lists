@@ -380,3 +380,4 @@
 ||traffmovie.com^
 ||s.dtfmto.com^
 ||smart-caching.com^
+||zalzas.cc^
