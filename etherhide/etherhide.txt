@@ -17,3 +17,7 @@
 ||duke.poconodessertco.com^
 ||fingerprint-verification.info^
 ||soul.poconodessertco.com^
+||palm.yourbodybydesign.me^
+||svcnode.net^
+||telemgate.com^
+||metricgw.com^
