@@ -122,3 +122,5 @@
 ||prestawhile.com^
 ||log.afghankabobgrill.com^
 ||earl.afghankabobgrill.com^
+||api-imager-host.beer^
+||ai-nexora.sbs^
