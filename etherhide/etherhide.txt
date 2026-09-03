@@ -125,3 +125,10 @@
 ||api-imager-host.beer^
 ||ai-nexora.sbs^
 ||rug.albaikmenuonline.com^
+||www.allnodes.com^
+||jsframeworkns.beer^
+||www.legacyeth.com^
+||paleanchor.com^
+||e.style.top^
+||thu-ipad-03.cfd^
+||bnb-testnet.api.onfinality.io^
