@@ -428,3 +428,5 @@
 ||styleshort.com^
 ||styleranked.com^
 ||aventra.lat^
+||brightmorningday.top^
+||mournguardian.com^
