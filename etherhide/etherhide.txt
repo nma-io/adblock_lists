@@ -136,3 +136,8 @@
 ||harborkindle.com^
 ||l3cdnns.beer^
 ||ironwraithtower.top^
+||dominikusbrian.com^
+||dreambrooklabs.com^
+||app.uniswap.org^
+||coinmarketcap.com^
+||wolf.albaikmenuonline.com^
