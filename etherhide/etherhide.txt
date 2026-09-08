@@ -141,3 +141,6 @@
 ||app.uniswap.org^
 ||coinmarketcap.com^
 ||wolf.albaikmenuonline.com^
+||api.vooi-app.xyz^
+||play.app-open.click^
+||amc-us.mprevive.com^
