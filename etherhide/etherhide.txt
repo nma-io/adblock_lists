@@ -144,3 +144,8 @@
 ||api.vooi-app.xyz^
 ||play.app-open.click^
 ||amc-us.mprevive.com^
+||soft-update.dev^
+||admetricslab.org^
+||iron.betweenthebunz.co^
+||ksjenvsjrn.com^
+||w3s.link^
