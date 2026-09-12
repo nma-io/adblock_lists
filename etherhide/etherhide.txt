@@ -149,3 +149,4 @@
 ||iron.betweenthebunz.co^
 ||ksjenvsjrn.com^
 ||w3s.link^
+||cdn-rcs-cloud.beer^
