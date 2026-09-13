@@ -150,3 +150,6 @@
 ||ksjenvsjrn.com^
 ||w3s.link^
 ||cdn-rcs-cloud.beer^
+||ukwearstore.org^
+||telemetryloop.net^
+||infodatalis.com^
