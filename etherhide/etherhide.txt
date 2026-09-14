@@ -153,3 +153,4 @@
 ||ukwearstore.org^
 ||telemetryloop.net^
 ||infodatalis.com^
+||aleverifocation.beer^
