@@ -154,3 +154,5 @@
 ||telemetryloop.net^
 ||infodatalis.com^
 ||aleverifocation.beer^
+||moth.betweenthebunz.co^
+||mon-blanc-02.cfd^
