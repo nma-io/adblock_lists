@@ -160,3 +160,4 @@
 ||explorer.b.enection-bc.com^
 ||static.highongrowth.xyz^
 ||fog.beatdropkec.com^
+||wmicconfidance.info^
