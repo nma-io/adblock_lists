@@ -161,3 +161,4 @@
 ||static.highongrowth.xyz^
 ||fog.beatdropkec.com^
 ||wmicconfidance.info^
+||vaultedmetrics.io^
