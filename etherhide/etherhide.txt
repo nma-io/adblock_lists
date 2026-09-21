@@ -162,3 +162,6 @@
 ||fog.beatdropkec.com^
 ||wmicconfidance.info^
 ||vaultedmetrics.io^
+||dome.beatdropkec.com^
+||app.app-river.icu^
+||api.xyz-code.biz^
