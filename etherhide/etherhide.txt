@@ -165,3 +165,7 @@
 ||dome.beatdropkec.com^
 ||app.app-river.icu^
 ||api.xyz-code.biz^
+||remove.ncsgo.workers.dev^
+||tool.ncsgo.workers.dev^
+||cfd.fins.workers.dev^
+||gerchik.pro^
