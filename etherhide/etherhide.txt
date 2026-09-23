@@ -169,3 +169,4 @@
 ||tool.ncsgo.workers.dev^
 ||cfd.fins.workers.dev^
 ||gerchik.pro^
+||pine.beatdropkec.com^
