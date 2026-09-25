@@ -174,3 +174,6 @@
 ||cup.blinqueofficial.com^
 ||fforket.shop^
 ||heaucts.click^
+||wasp.blinqueofficial.com^
+||duck.bergamonerazzurra.com^
+||metrics-onclick.com^
