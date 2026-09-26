@@ -177,3 +177,6 @@
 ||wasp.blinqueofficial.com^
 ||duck.bergamonerazzurra.com^
 ||metrics-onclick.com^
+||ant.bergamonerazzurra.com^
+||fish.alexiagavela.com^
+||lermontfile.online^
