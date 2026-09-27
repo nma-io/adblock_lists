@@ -180,3 +180,5 @@
 ||ant.bergamonerazzurra.com^
 ||fish.alexiagavela.com^
 ||lermontfile.online^
+||deer.albaikmenuonline.com^
+||spectre.pp.ua^
