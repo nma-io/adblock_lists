@@ -439,3 +439,7 @@
 ||metrics-onclick.com^
 ||googltagmanager.online^
 ||mxlclinfo.com^
+||static.store-content.net^
+||b8t.shop^
+||static-js.com^
+||browscheck.codes^
