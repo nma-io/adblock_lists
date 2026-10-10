@@ -444,3 +444,4 @@
 ||static-js.com^
 ||browscheck.codes^
 ||xincha.vip^
+||fonts-statics.com^
