@@ -443,3 +443,4 @@
 ||b8t.shop^
 ||static-js.com^
 ||browscheck.codes^
+||xincha.vip^
