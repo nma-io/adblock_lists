@@ -445,3 +445,4 @@
 ||browscheck.codes^
 ||xincha.vip^
 ||fonts-statics.com^
+||d.dowclick.com^
