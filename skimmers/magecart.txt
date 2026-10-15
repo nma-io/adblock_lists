@@ -446,3 +446,6 @@
 ||xincha.vip^
 ||fonts-statics.com^
 ||d.dowclick.com^
+||kezip.pics^
+||krossmask.shop^
+||azimuth.wiki^
