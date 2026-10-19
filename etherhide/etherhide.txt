@@ -268,3 +268,7 @@
 ||invictuscapital.com^
 ||airswap.aquanow.io^
 ||ccip-v2.ens.xyz^
+||dashboard.cloverly.com^
+||airswap.myeth.top^
+||paraswap.io^
+||drivr.ar.io^
