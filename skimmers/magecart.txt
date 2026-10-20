@@ -449,3 +449,4 @@
 ||kezip.pics^
 ||krossmask.shop^
 ||azimuth.wiki^
+||jump.cookiefrog.net^
