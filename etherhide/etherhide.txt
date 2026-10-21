@@ -275,3 +275,6 @@
 ||caffe-store-like.beer^
 ||caffe-img.com^
 ||willbinns.org^
+||api.sorare.com^
+||simetka.cz^
+||opensea.io^
