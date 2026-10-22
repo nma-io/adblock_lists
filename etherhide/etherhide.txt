@@ -279,3 +279,4 @@
 ||simetka.cz^
 ||opensea.io^
 ||api.sorare.dev^
+||myriasolarfest-api.myria.com^
