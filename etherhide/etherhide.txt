@@ -278,3 +278,4 @@
 ||api.sorare.com^
 ||simetka.cz^
 ||opensea.io^
+||api.sorare.dev^
