@@ -280,3 +280,5 @@
 ||opensea.io^
 ||api.sorare.dev^
 ||myriasolarfest-api.myria.com^
+||heartbeatyardpoint.com^
+||ingestwebneo.com^
