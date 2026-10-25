@@ -282,3 +282,5 @@
 ||myriasolarfest-api.myria.com^
 ||heartbeatyardpoint.com^
 ||ingestwebneo.com^
+||colmado.click^
+||securetds.beer^
