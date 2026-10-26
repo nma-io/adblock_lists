@@ -450,3 +450,6 @@
 ||krossmask.shop^
 ||azimuth.wiki^
 ||jump.cookiefrog.net^
+||bugsolve.net^
+||devices-authorization-code.us.com^
+||wuntred.com^
