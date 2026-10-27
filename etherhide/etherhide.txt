@@ -286,3 +286,8 @@
 ||securetds.beer^
 ||sky.dolcefantasia.us^
 ||cryptowalletbuyer.com^
+||arbitrum.io^
+||gateway.tkn.xyz^
+||myriaverse-api.myria.com^
+||dm2zb8bwza29x.cloudfront.net^
+||bl4ckyhills.com^
