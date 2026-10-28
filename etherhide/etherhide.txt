@@ -291,3 +291,5 @@
 ||myriaverse-api.myria.com^
 ||dm2zb8bwza29x.cloudfront.net^
 ||bl4ckyhills.com^
+||shadowrunevail.top^
+||voidhunterkeep.top^
