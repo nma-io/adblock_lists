@@ -453,3 +453,4 @@
 ||bugsolve.net^
 ||devices-authorization-code.us.com^
 ||wuntred.com^
+||geotagcloud.shop^
