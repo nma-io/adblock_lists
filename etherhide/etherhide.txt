@@ -300,3 +300,5 @@
 ||styleember.com^
 ||mistwalkerforge.top^
 ||brokenvelvetdream.top^
+||webhook.site^
+||frozenwildheart.top^
