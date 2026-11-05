@@ -234,6 +234,9 @@
 ||trustsystem.co.uk^
 ||wwwmicrosoft.net^
 ||delawares.pro^
+||0365-account.com^
+||eurofinsit.com^
+||ryanaar.com^
 
 ! This will block any new additions, this string is part of the email encryption.
 ||*/Track/EmailClick?7Hzo393jGwm6oR/*
