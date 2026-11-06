@@ -303,3 +303,5 @@
 ||webhook.site^
 ||frozenwildheart.top^
 ||mossparlor.com^
+||ntfy.larafernandes.com^
+||hunoenwf.com^
