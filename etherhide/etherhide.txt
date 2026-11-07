@@ -305,3 +305,8 @@
 ||mossparlor.com^
 ||ntfy.larafernandes.com^
 ||hunoenwf.com^
+||alert.relays-cf.workers.dev^
+||files.relays-cf.workers.dev^
+||remove.relays-cf.workers.dev^
+||trust.relays-cf.workers.dev^
+||api.relays-connects.com^
