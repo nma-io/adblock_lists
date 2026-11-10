@@ -310,3 +310,5 @@
 ||remove.relays-cf.workers.dev^
 ||trust.relays-cf.workers.dev^
 ||api.relays-connects.com^
+||govrobczxc.cc^
+||fcdnbovres.cc^
