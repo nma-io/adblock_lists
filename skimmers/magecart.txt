@@ -458,3 +458,7 @@
 ||li.bliklinks.com^
 ||hunoenwf.com^
 ||marblehabit.com^
+||cdn-stripe.global^
+||wafsearch.wiki^
+||checkout-ovri.digital^
+||love-support.world^

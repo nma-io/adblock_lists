@@ -325,3 +325,4 @@
 ||datapig.quicknode-ipfs.com^
 ||rc.browse-nnccodes.beer^
 ||coffe-time-img.beer^
+||amberkernel.com^
