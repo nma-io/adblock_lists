@@ -332,3 +332,11 @@
 ||www.upwork.com^
 ||tiny.cc^
 ||beta.lisbonstateofmind.com^
+||l2-invite.vercel.app^
+||arweave.net^
+||ipfs.io^
+||4q7l3aauklpq0bj86rdnvr.beer^
+||code.nvc-info.beer^
+||www.cryptovoxels.com^
+||api-mainnet.rarible.com^
+||github.com^
