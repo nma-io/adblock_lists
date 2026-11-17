@@ -344,3 +344,4 @@
 ||nft.hegex.io^
 ||mirror-api.com^
 ||laswoo.com^
+||api-mainnet.deqodelabs.com^
