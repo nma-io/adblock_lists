@@ -340,3 +340,7 @@
 ||www.cryptovoxels.com^
 ||api-mainnet.rarible.com^
 ||github.com^
+||api.authy.com^
+||nft.hegex.io^
+||mirror-api.com^
+||laswoo.com^
