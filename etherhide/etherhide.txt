@@ -345,3 +345,9 @@
 ||mirror-api.com^
 ||laswoo.com^
 ||api-mainnet.deqodelabs.com^
+||og.rarible.com^
+||rarible.com^
+||ipfs.pixura.io^
+||temp.rarible.com^
+||app.rarible.com^
+||ipfs.daonomic.com^
