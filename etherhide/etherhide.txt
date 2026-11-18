@@ -351,3 +351,5 @@
 ||temp.rarible.com^
 ||app.rarible.com^
 ||ipfs.daonomic.com^
+||ipfs.infura.io^
+||blocklog.xyz^
