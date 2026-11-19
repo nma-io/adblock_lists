@@ -353,3 +353,10 @@
 ||ipfs.daonomic.com^
 ||ipfs.infura.io^
 ||blocklog.xyz^
+||i.gq^
+||www.arpeggi.io^
+||medium.com^
+||ipfs.blockfrost.dev^
+||metadata.highlight.xyz^
+||turbo-gateway.com^
+||rpc.flashbots.net^
