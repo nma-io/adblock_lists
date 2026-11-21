@@ -372,3 +372,6 @@
 ||this.nodenetwork.net^
 ||this.alllayers.net^
 ||src.img-codes-cloude.info^
+||mango-oyster.cfd^
+||yellow-monkey.cfd^
+||jscdncloude.beer^
