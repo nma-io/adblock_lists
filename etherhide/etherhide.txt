@@ -381,3 +381,4 @@
 ||www.pacegallery.com^
 ||tlschssl22read.cc^
 ||tthcsslread21.cc^
+||storageapi.fleek.co^
