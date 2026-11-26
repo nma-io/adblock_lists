@@ -389,3 +389,9 @@
 ||holperfield.com^
 ||stormwraith.com^
 ||datanomika.xyz^
+||eth.chibifighters.io^
+||chibigame.io^
+||api.dworld.io^
+||dworld.io^
+||www.our-roulette.com^
+||ethlance.com^
